@@ -11,3 +11,7 @@ Only some parts from reichelt
 
 # To Do
 ### A lot
+
+# DISCLAIMER
+I take no responsibility for any electrical connection created. Take into account that the system rounds some times
+and therefor not all suggestions are perfect
