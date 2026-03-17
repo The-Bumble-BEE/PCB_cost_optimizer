@@ -9,5 +9,5 @@ Takes partlist and checks for more cost efficient part combinations.
 # Current Partlist 
 Only some parts from reichelt
 
-#To Do
+# To Do
 ### A lot
