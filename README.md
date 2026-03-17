@@ -1,7 +1,7 @@
 # PCB_cost_optimizer
 Analyzis "all" components on a pcb and suggest new part combinations for expensiv parts
 # How to use
-	1.Download the folder "running"
+	1. Download the folder "running"
 	2. install all packages that you havn´t installed 
 	3. start the programm with python (3.12.7)
 
